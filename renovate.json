@@ -13,7 +13,7 @@
       "groupSlug": "all-minor"
     },
     {
-      "matchPackagePatterns": ["^zerodhafundhouse"],
+      "matchPackagePatterns": ["^chalk"],
       "enabled": false
     }
   ]
